@@ -53,3 +53,7 @@ h2 {
 #paris {
     background-color: salmon;
 }
+
+.destination:hover h2 {
+    transform: rotate(0deg);
+}
